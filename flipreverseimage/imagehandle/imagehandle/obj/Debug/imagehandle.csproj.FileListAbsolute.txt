@@ -1,0 +1,7 @@
+D:\OneDrive\NotShared\workspace\src\CodeTest\flipreverseimage\imagehandle\imagehandle\bin\Debug\imagehandle.exe.config
+D:\OneDrive\NotShared\workspace\src\CodeTest\flipreverseimage\imagehandle\imagehandle\bin\Debug\imagehandle.exe
+D:\OneDrive\NotShared\workspace\src\CodeTest\flipreverseimage\imagehandle\imagehandle\bin\Debug\imagehandle.pdb
+D:\OneDrive\NotShared\workspace\src\CodeTest\flipreverseimage\imagehandle\imagehandle\obj\Debug\imagehandle.csprojAssemblyReference.cache
+D:\OneDrive\NotShared\workspace\src\CodeTest\flipreverseimage\imagehandle\imagehandle\obj\Debug\imagehandle.csproj.CoreCompileInputs.cache
+D:\OneDrive\NotShared\workspace\src\CodeTest\flipreverseimage\imagehandle\imagehandle\obj\Debug\imagehandle.exe
+D:\OneDrive\NotShared\workspace\src\CodeTest\flipreverseimage\imagehandle\imagehandle\obj\Debug\imagehandle.pdb

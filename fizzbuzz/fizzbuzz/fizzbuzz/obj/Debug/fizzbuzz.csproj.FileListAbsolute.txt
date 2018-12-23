@@ -1,0 +1,7 @@
+D:\OneDrive\NotShared\workspace\src\CodeTest\fizzbuzz\fizzbuzz\fizzbuzz\bin\Debug\fizzbuzz.exe.config
+D:\OneDrive\NotShared\workspace\src\CodeTest\fizzbuzz\fizzbuzz\fizzbuzz\bin\Debug\fizzbuzz.exe
+D:\OneDrive\NotShared\workspace\src\CodeTest\fizzbuzz\fizzbuzz\fizzbuzz\bin\Debug\fizzbuzz.pdb
+D:\OneDrive\NotShared\workspace\src\CodeTest\fizzbuzz\fizzbuzz\fizzbuzz\obj\Debug\fizzbuzz.csprojAssemblyReference.cache
+D:\OneDrive\NotShared\workspace\src\CodeTest\fizzbuzz\fizzbuzz\fizzbuzz\obj\Debug\fizzbuzz.csproj.CoreCompileInputs.cache
+D:\OneDrive\NotShared\workspace\src\CodeTest\fizzbuzz\fizzbuzz\fizzbuzz\obj\Debug\fizzbuzz.exe
+D:\OneDrive\NotShared\workspace\src\CodeTest\fizzbuzz\fizzbuzz\fizzbuzz\obj\Debug\fizzbuzz.pdb

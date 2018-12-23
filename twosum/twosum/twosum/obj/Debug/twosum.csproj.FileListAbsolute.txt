@@ -1,0 +1,7 @@
+D:\OneDrive\NotShared\workspace\src\CodeTest\twosum\twosum\twosum\bin\Debug\twosum.exe.config
+D:\OneDrive\NotShared\workspace\src\CodeTest\twosum\twosum\twosum\bin\Debug\twosum.exe
+D:\OneDrive\NotShared\workspace\src\CodeTest\twosum\twosum\twosum\bin\Debug\twosum.pdb
+D:\OneDrive\NotShared\workspace\src\CodeTest\twosum\twosum\twosum\obj\Debug\twosum.csprojAssemblyReference.cache
+D:\OneDrive\NotShared\workspace\src\CodeTest\twosum\twosum\twosum\obj\Debug\twosum.csproj.CoreCompileInputs.cache
+D:\OneDrive\NotShared\workspace\src\CodeTest\twosum\twosum\twosum\obj\Debug\twosum.exe
+D:\OneDrive\NotShared\workspace\src\CodeTest\twosum\twosum\twosum\obj\Debug\twosum.pdb

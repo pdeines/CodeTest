@@ -1,0 +1,7 @@
+D:\OneDrive\NotShared\workspace\src\CodeTest\uniquemorse\morse\morse\bin\Debug\morse.exe.config
+D:\OneDrive\NotShared\workspace\src\CodeTest\uniquemorse\morse\morse\bin\Debug\morse.exe
+D:\OneDrive\NotShared\workspace\src\CodeTest\uniquemorse\morse\morse\bin\Debug\morse.pdb
+D:\OneDrive\NotShared\workspace\src\CodeTest\uniquemorse\morse\morse\obj\Debug\morse.csprojAssemblyReference.cache
+D:\OneDrive\NotShared\workspace\src\CodeTest\uniquemorse\morse\morse\obj\Debug\morse.csproj.CoreCompileInputs.cache
+D:\OneDrive\NotShared\workspace\src\CodeTest\uniquemorse\morse\morse\obj\Debug\morse.exe
+D:\OneDrive\NotShared\workspace\src\CodeTest\uniquemorse\morse\morse\obj\Debug\morse.pdb

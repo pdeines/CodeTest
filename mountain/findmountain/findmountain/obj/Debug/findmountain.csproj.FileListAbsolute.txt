@@ -1,0 +1,7 @@
+D:\OneDrive\NotShared\workspace\src\CodeTest\mountain\findmountain\findmountain\bin\Debug\findmountain.exe.config
+D:\OneDrive\NotShared\workspace\src\CodeTest\mountain\findmountain\findmountain\bin\Debug\findmountain.exe
+D:\OneDrive\NotShared\workspace\src\CodeTest\mountain\findmountain\findmountain\bin\Debug\findmountain.pdb
+D:\OneDrive\NotShared\workspace\src\CodeTest\mountain\findmountain\findmountain\obj\Debug\findmountain.csprojAssemblyReference.cache
+D:\OneDrive\NotShared\workspace\src\CodeTest\mountain\findmountain\findmountain\obj\Debug\findmountain.csproj.CoreCompileInputs.cache
+D:\OneDrive\NotShared\workspace\src\CodeTest\mountain\findmountain\findmountain\obj\Debug\findmountain.exe
+D:\OneDrive\NotShared\workspace\src\CodeTest\mountain\findmountain\findmountain\obj\Debug\findmountain.pdb

@@ -1,0 +1,7 @@
+D:\OneDrive\NotShared\workspace\src\CodeTest\robotmove\robot\robot\bin\Debug\robot.exe.config
+D:\OneDrive\NotShared\workspace\src\CodeTest\robotmove\robot\robot\bin\Debug\robot.exe
+D:\OneDrive\NotShared\workspace\src\CodeTest\robotmove\robot\robot\bin\Debug\robot.pdb
+D:\OneDrive\NotShared\workspace\src\CodeTest\robotmove\robot\robot\obj\Debug\robot.csprojAssemblyReference.cache
+D:\OneDrive\NotShared\workspace\src\CodeTest\robotmove\robot\robot\obj\Debug\robot.csproj.CoreCompileInputs.cache
+D:\OneDrive\NotShared\workspace\src\CodeTest\robotmove\robot\robot\obj\Debug\robot.exe
+D:\OneDrive\NotShared\workspace\src\CodeTest\robotmove\robot\robot\obj\Debug\robot.pdb

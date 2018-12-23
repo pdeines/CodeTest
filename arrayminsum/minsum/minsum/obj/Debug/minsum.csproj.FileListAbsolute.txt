@@ -1,0 +1,7 @@
+D:\OneDrive\NotShared\workspace\src\CodeTest\arrayminsum\minsum\minsum\bin\Debug\minsum.exe.config
+D:\OneDrive\NotShared\workspace\src\CodeTest\arrayminsum\minsum\minsum\bin\Debug\minsum.exe
+D:\OneDrive\NotShared\workspace\src\CodeTest\arrayminsum\minsum\minsum\bin\Debug\minsum.pdb
+D:\OneDrive\NotShared\workspace\src\CodeTest\arrayminsum\minsum\minsum\obj\Debug\minsum.csprojAssemblyReference.cache
+D:\OneDrive\NotShared\workspace\src\CodeTest\arrayminsum\minsum\minsum\obj\Debug\minsum.csproj.CoreCompileInputs.cache
+D:\OneDrive\NotShared\workspace\src\CodeTest\arrayminsum\minsum\minsum\obj\Debug\minsum.exe
+D:\OneDrive\NotShared\workspace\src\CodeTest\arrayminsum\minsum\minsum\obj\Debug\minsum.pdb

@@ -1,0 +1,7 @@
+D:\OneDrive\NotShared\workspace\src\CodeTest\jewels\Jewels+Stones\Jewels+Stones\bin\Debug\Jewels+Stones.exe.config
+D:\OneDrive\NotShared\workspace\src\CodeTest\jewels\Jewels+Stones\Jewels+Stones\bin\Debug\Jewels+Stones.exe
+D:\OneDrive\NotShared\workspace\src\CodeTest\jewels\Jewels+Stones\Jewels+Stones\bin\Debug\Jewels+Stones.pdb
+D:\OneDrive\NotShared\workspace\src\CodeTest\jewels\Jewels+Stones\Jewels+Stones\obj\Debug\Jewels+Stones.csprojAssemblyReference.cache
+D:\OneDrive\NotShared\workspace\src\CodeTest\jewels\Jewels+Stones\Jewels+Stones\obj\Debug\Jewels+Stones.csproj.CoreCompileInputs.cache
+D:\OneDrive\NotShared\workspace\src\CodeTest\jewels\Jewels+Stones\Jewels+Stones\obj\Debug\Jewels+Stones.exe
+D:\OneDrive\NotShared\workspace\src\CodeTest\jewels\Jewels+Stones\Jewels+Stones\obj\Debug\Jewels+Stones.pdb

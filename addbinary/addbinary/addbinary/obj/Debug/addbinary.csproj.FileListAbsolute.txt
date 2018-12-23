@@ -1,0 +1,7 @@
+D:\OneDrive\NotShared\workspace\src\CodeTest\addbinary\addbinary\addbinary\bin\Debug\addbinary.exe.config
+D:\OneDrive\NotShared\workspace\src\CodeTest\addbinary\addbinary\addbinary\bin\Debug\addbinary.exe
+D:\OneDrive\NotShared\workspace\src\CodeTest\addbinary\addbinary\addbinary\bin\Debug\addbinary.pdb
+D:\OneDrive\NotShared\workspace\src\CodeTest\addbinary\addbinary\addbinary\obj\Debug\addbinary.csprojAssemblyReference.cache
+D:\OneDrive\NotShared\workspace\src\CodeTest\addbinary\addbinary\addbinary\obj\Debug\addbinary.csproj.CoreCompileInputs.cache
+D:\OneDrive\NotShared\workspace\src\CodeTest\addbinary\addbinary\addbinary\obj\Debug\addbinary.exe
+D:\OneDrive\NotShared\workspace\src\CodeTest\addbinary\addbinary\addbinary\obj\Debug\addbinary.pdb

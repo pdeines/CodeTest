@@ -1,0 +1,7 @@
+D:\OneDrive\NotShared\workspace\src\CodeTest\tolower\lowercase\lowercase\bin\Debug\lowercase.exe.config
+D:\OneDrive\NotShared\workspace\src\CodeTest\tolower\lowercase\lowercase\bin\Debug\lowercase.exe
+D:\OneDrive\NotShared\workspace\src\CodeTest\tolower\lowercase\lowercase\bin\Debug\lowercase.pdb
+D:\OneDrive\NotShared\workspace\src\CodeTest\tolower\lowercase\lowercase\obj\Debug\lowercase.csprojAssemblyReference.cache
+D:\OneDrive\NotShared\workspace\src\CodeTest\tolower\lowercase\lowercase\obj\Debug\lowercase.csproj.CoreCompileInputs.cache
+D:\OneDrive\NotShared\workspace\src\CodeTest\tolower\lowercase\lowercase\obj\Debug\lowercase.exe
+D:\OneDrive\NotShared\workspace\src\CodeTest\tolower\lowercase\lowercase\obj\Debug\lowercase.pdb

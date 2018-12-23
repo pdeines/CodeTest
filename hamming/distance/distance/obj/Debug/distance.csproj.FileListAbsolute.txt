@@ -1,0 +1,7 @@
+D:\OneDrive\NotShared\workspace\src\CodeTest\hamming\distance\distance\bin\Debug\distance.exe.config
+D:\OneDrive\NotShared\workspace\src\CodeTest\hamming\distance\distance\bin\Debug\distance.exe
+D:\OneDrive\NotShared\workspace\src\CodeTest\hamming\distance\distance\bin\Debug\distance.pdb
+D:\OneDrive\NotShared\workspace\src\CodeTest\hamming\distance\distance\obj\Debug\distance.csprojAssemblyReference.cache
+D:\OneDrive\NotShared\workspace\src\CodeTest\hamming\distance\distance\obj\Debug\distance.csproj.CoreCompileInputs.cache
+D:\OneDrive\NotShared\workspace\src\CodeTest\hamming\distance\distance\obj\Debug\distance.exe
+D:\OneDrive\NotShared\workspace\src\CodeTest\hamming\distance\distance\obj\Debug\distance.pdb

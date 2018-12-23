@@ -1,0 +1,7 @@
+D:\OneDrive\NotShared\workspace\src\CodeTest\buyandsellstock\stock\stock\bin\Debug\stock.exe.config
+D:\OneDrive\NotShared\workspace\src\CodeTest\buyandsellstock\stock\stock\bin\Debug\stock.exe
+D:\OneDrive\NotShared\workspace\src\CodeTest\buyandsellstock\stock\stock\bin\Debug\stock.pdb
+D:\OneDrive\NotShared\workspace\src\CodeTest\buyandsellstock\stock\stock\obj\Debug\stock.csprojAssemblyReference.cache
+D:\OneDrive\NotShared\workspace\src\CodeTest\buyandsellstock\stock\stock\obj\Debug\stock.csproj.CoreCompileInputs.cache
+D:\OneDrive\NotShared\workspace\src\CodeTest\buyandsellstock\stock\stock\obj\Debug\stock.exe
+D:\OneDrive\NotShared\workspace\src\CodeTest\buyandsellstock\stock\stock\obj\Debug\stock.pdb

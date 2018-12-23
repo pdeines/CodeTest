@@ -1,0 +1,7 @@
+D:\OneDrive\NotShared\workspace\src\CodeTest\selfdividing\selfdividingnumber\selfdividingnumber\bin\Debug\selfdividingnumber.exe.config
+D:\OneDrive\NotShared\workspace\src\CodeTest\selfdividing\selfdividingnumber\selfdividingnumber\bin\Debug\selfdividingnumber.exe
+D:\OneDrive\NotShared\workspace\src\CodeTest\selfdividing\selfdividingnumber\selfdividingnumber\bin\Debug\selfdividingnumber.pdb
+D:\OneDrive\NotShared\workspace\src\CodeTest\selfdividing\selfdividingnumber\selfdividingnumber\obj\Debug\selfdividingnumber.csprojAssemblyReference.cache
+D:\OneDrive\NotShared\workspace\src\CodeTest\selfdividing\selfdividingnumber\selfdividingnumber\obj\Debug\selfdividingnumber.csproj.CoreCompileInputs.cache
+D:\OneDrive\NotShared\workspace\src\CodeTest\selfdividing\selfdividingnumber\selfdividingnumber\obj\Debug\selfdividingnumber.exe
+D:\OneDrive\NotShared\workspace\src\CodeTest\selfdividing\selfdividingnumber\selfdividingnumber\obj\Debug\selfdividingnumber.pdb

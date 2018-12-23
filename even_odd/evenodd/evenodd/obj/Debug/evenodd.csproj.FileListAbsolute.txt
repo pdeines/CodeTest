@@ -1,0 +1,6 @@
+D:\OneDrive\NotShared\workspace\src\CodeTest\even_odd\evenodd\evenodd\bin\Debug\evenodd.exe.config
+D:\OneDrive\NotShared\workspace\src\CodeTest\even_odd\evenodd\evenodd\bin\Debug\evenodd.exe
+D:\OneDrive\NotShared\workspace\src\CodeTest\even_odd\evenodd\evenodd\bin\Debug\evenodd.pdb
+D:\OneDrive\NotShared\workspace\src\CodeTest\even_odd\evenodd\evenodd\obj\Debug\evenodd.csproj.CoreCompileInputs.cache
+D:\OneDrive\NotShared\workspace\src\CodeTest\even_odd\evenodd\evenodd\obj\Debug\evenodd.exe
+D:\OneDrive\NotShared\workspace\src\CodeTest\even_odd\evenodd\evenodd\obj\Debug\evenodd.pdb
