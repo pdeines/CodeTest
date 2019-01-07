@@ -25,14 +25,7 @@ namespace anagrammap
             int[] p = new int[A.Length];
             for(int i = 0; i < A.Length; i++)
             {
-                for (int j = 0; j < B.Length; j++)
-                {
-                    if (B[j] == A[i])
-                    {
-                        p[i] = j;
-                        continue;
-                    }
-                }
+                p[i] = Array.IndexOf(B, A[i]);
             }
 
             return p;
